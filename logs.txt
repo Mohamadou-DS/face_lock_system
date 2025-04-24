@@ -1,0 +1,12 @@
+2025-04-22 13:59:42.522977 - Visage non reconnu.
+2025-04-22 13:59:45.895642 - Visage non reconnu.
+2025-04-22 13:59:49.329668 - Visage non reconnu.
+2025-04-22 13:59:52.696607 - Visage non reconnu.
+2025-04-22 13:59:56.046759 - Visage non reconnu.
+2025-04-22 13:59:56.047862 - Verrouillage du système.
+2025-04-22 14:00:20.721863 - Visage non reconnu.
+2025-04-22 14:00:24.113774 - Visage non reconnu.
+2025-04-22 14:00:27.488085 - Visage non reconnu.
+2025-04-22 14:00:30.877402 - Visage non reconnu.
+2025-04-22 14:00:34.255488 - Visage non reconnu.
+2025-04-22 14:00:34.256746 - Verrouillage du système.
